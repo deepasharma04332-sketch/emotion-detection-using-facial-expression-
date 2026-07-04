@@ -19,7 +19,7 @@ How It Works--------!
 3. Emotion Classification** – The preprocessed face is passed through a trained CNN, which outputs a probability for each of the 7 emotion classes.
 4. Display – A bounding box is drawn around the detected face along with the predicted emotion label and confidence score.
 
-Model Architecture--------!
+Model Architecture---------!
 
 The CNN consists of three convolutional blocks (with batch normalization, max pooling, and dropout for regularization), followed by fully connected layers ending in a softmax output over 7 classes. It was trained using the Adam optimizer with categorical cross-entropy loss, along with early stopping and learning rate reduction to prevent overfitting.
 
