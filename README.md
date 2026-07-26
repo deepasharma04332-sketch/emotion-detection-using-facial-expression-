@@ -10,7 +10,7 @@ Tech Stack---------!
 - **Python**
 - **TensorFlow / Keras** – for building and training the CNN
 - **OpenCV** – for face detection (Haar Cascade) and real-time video processing
-- **NumPy, Matplotlib, scikit-learn** – supporting libraries for data handling and visualization
+- **NumPy, Matplotlib, scikit-learn** – supporting libraries for data handling and visualization.
 
 How It Works--------!
 
