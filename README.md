@@ -84,7 +84,7 @@ The best-performing model (based on validation accuracy) is automatically saved 
 python webcam_detect.py
 ```
 
-This opens your webcam, detects faces, and overlays the predicted emotion and confidence score in real time. Press **`q`** to exit
+This opens your webcam, detects faces, and overlays the predicted emotion and confidence score in real time. Press **`q`** to exit.
 
 Notes-------!
 
