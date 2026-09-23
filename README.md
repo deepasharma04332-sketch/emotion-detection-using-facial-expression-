@@ -5,7 +5,7 @@ A deep learning project that detects human emotions in real time using a webcam 
 Overview---------!
 This project combines classical computer vision (face detection) with deep learning (emotion classification) to build an end-to-end pipeline: a webcam frame comes in, a face is located, and a trained CNN predicts the emotion being expressed, all in real time
 
-Tech Stack---------!
+Tech Stack--------!
 
 - **Python**
 - **TensorFlow / Keras** – for building and training the CNN
